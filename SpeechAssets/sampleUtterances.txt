@@ -1,0 +1,8 @@
+AnswerIntent no this is my first time here
+AnswerIntent sure why not
+AnswerIntent sounds good I would like some steak
+AnswerIntent medium rare
+AnswerIntent just some water please
+AnswerIntent great
+AnswerIntent no just bring the check please
+PracticeIntent Spanish
