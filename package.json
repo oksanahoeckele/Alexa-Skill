@@ -1,0 +1,13 @@
+{
+  "name": "Xlearn",
+  "version": "1.0.0",
+  "decription": "Xlearn",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.js",
+  },
+  "author": "Oksana Hoeckele",
+  "dependencies": {
+    "alexa-sdk": "^1.0.14"
+  }
+}
